@@ -29,9 +29,9 @@ I am a **Mechanical Engineer turned Computer Science Enthusiast**, currently pur
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneeshjv&layout=compact&theme=radical)
 
 ## 🚀 Featured Projects
-- **[Gen Agritech Website](https://github.com/vigneeshjv/Gen-Agritech-Website)** 🌐 - Built a multi-page company website using **HTML, CSS, and VS Code**
-- **[3D Printed Robotic Arm](https://github.com/vigneeshjv/Robotic-Arm)** 🤖 - Designed and implemented a **Bluetooth-controlled robotic arm** using **Arduino & MG995 motors**
-- **[Secure Password Manager](https://github.com/vigneeshjv/Secure-Password-Manager)** 🔐 - A **JavaFX-based password manager** with **SHA-256 encryption and HashTable ADT**
+- **[Gen Agritech Website](http://genagritech.com/)** 🌐 - Built a multi-page company website using **HTML, CSS, and VS Code**
+- **[3D Printed Robotic Arm]()** 🤖 - Designed and implemented a **Bluetooth-controlled robotic arm** using **Arduino & MG995 motors**
+- **[Secure Password Manager]()** 🔐 - A **JavaFX-based password manager** with **SHA-256 encryption and HashTable ADT**
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneeshjv/)  
