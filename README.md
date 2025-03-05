@@ -1,4 +1,4 @@
-# Hi there, I'm Jammi Venakata Vigneesh! 👋
+# Hi there, I'm JV Vigneesh! 👋
 
 ![Profile Banner](https://github.com/vigneeshjv/vigneeshjv/raw/main/banner.png)  
 
