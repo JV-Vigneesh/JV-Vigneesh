@@ -1,6 +1,6 @@
 # Hi there, I'm JV Vigneesh! 👋
 
-![Profile Banner](https://github.com/vigneeshjv/vigneeshjv/img/Profile_Banner.png)  
+![Profile Banner](https://github.com/vigneeshjv/vigneeshjv/img/ProfileBanner.png)  
 
 ## 🚀 About Me
 I am a **Mechanical Engineer turned Computer Science Enthusiast**, currently pursuing my **M.Tech in Computer Science and Engineering**. Passionate about **Java Full Stack Development, Cybersecurity, Web Development, and AI**, I love working on interdisciplinary projects that merge different fields of technology.
