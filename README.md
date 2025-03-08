@@ -25,7 +25,7 @@ I am a **Mechanical Engineer turned Computer Science Enthusiast**, currently pur
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vigneeshjv&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JV-Vigneesh&theme=dracula&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneeshjv&layout=compact&theme=radical)
 
 ## 🚀 Featured Projects
