@@ -1,7 +1,5 @@
 # Hi there, I'm JV Vigneesh! 👋
 
-![Profile Banner](https://github.com/vigneeshjv/vigneeshjv/img/ProfileBanner.png)  
-
 ## 🚀 About Me
 I am a **Mechanical Engineer turned Computer Science Enthusiast**, currently pursuing my **M.Tech in Computer Science and Engineering**. Passionate about **Java Full Stack Development, Cybersecurity, Web Development, and AI**, I love working on interdisciplinary projects that merge different fields of technology.
 
@@ -23,12 +21,8 @@ I am a **Mechanical Engineer turned Computer Science Enthusiast**, currently pur
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JV-Vigneesh&theme=blood-dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-## 🚀 Featured Projects
+## 🚀 My Projects
 - **[Gen Agritech Website](http://genagritech.com/)** 🌐 - Built a multi-page company website using **HTML, CSS, and VS Code**
 - **[3D Printed Robotic Arm]()** 🤖 - Designed and implemented a **Bluetooth-controlled robotic arm** using **Arduino & MG995 motors**
 - **[Secure Password Manager]()** 🔐 - A **JavaFX-based password manager** with **SHA-256 encryption and HashTable ADT**
