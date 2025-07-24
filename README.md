@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I am a **Mechanical Engineer turned Computer Science Enthusiast**, currently pursuing my **M.Tech in Computer Science and Engineering**. Passionate about **Java Full Stack Development, Cybersecurity, Web Development, and AI**, I love working on interdisciplinary projects that merge different fields of technology.
 
-- 🔭 **Currently working on:** MTech (ADBMS, AML, IoT, IMG) Projects 
+- 🔭 **Currently working on:** Gen Agritech Website 
 - 🎯 **Looking for:** Opportunities in **Full Stack Development**, **Cybersecurity**, or **AI-driven solutions** **etc.**  
 - 💡 **Interests:** Software Engineering, Web Development, Ethical Hacking, Open Source Contributions  
 - 🎮 **Hobbies:** Gaming, Exploring New Tech, Reading Comics, Watching Sci-Fi Movies  
@@ -24,11 +24,18 @@ I am a **Mechanical Engineer turned Computer Science Enthusiast**, currently pur
 
 
 ## 🚀 My Projects
-- **[Gen Agritech Website](http://genagritech.com/)** 🌐 - Built a multi-page company website using **HTML, CSS, and VS Code**
+- **[Gen Agritech Website](http://genagritech.com/)** 🌐 - Built a multi-page company website using **HTML, CSS, and JS in VS Code and hosted in GoDaddy & cPannel (In progress)**
+- **[Naturezone Organics Website]()** 🌐 - Built a multi-page company website using **HTML, CSS, and JS in VS Code (In progress)**
 - **3D Printed Robotic Arm** 🤖 - Designed and implemented a **Bluetooth-controlled robotic arm** using **Arduino & MG995 motors**
+- **3D Printer**  - Designed and implemented a **3D Printer** using **Arduino mega 2560, Stepper Motors & MK-8 Extruder**
 - **[Secure Password Manager](https://github.com/JV-Vigneesh/Secure-Password-Management-System)** 🔐 - A **JavaFX-based password manager** with **SHA-256 encryption and HashTable ADT**
 - **[AI Powered Chatbot for Mental Health Support](https://github.com/JV-Vigneesh/AI-Powered-Chatbot-for-Mental-Health-Support)** 🤖 - AI-driven chatbot designed to provide mental health support using API & Predefined NLP
 - **[Two Way ANNOVA Calculator](https://github.com/JV-Vigneesh/Two-Way-ANNOVA)** 🧮 - A Two-Way ANOVA Calculator using Python
+- **[Simple Banking System with Transaction Management Python Edition](https://github.com/JV-Vigneesh/Simple-Banking-System-with-Transaction-Management-Python-Edition)** 🏦 - Simple Banking System with Transaction Management Python Edition
+- **[Simple Banking System with Transaction Management React Edition](https://github.com/JV-Vigneesh/Simple-Banking-System-with-Transaction-Management-React-Edition)** 🏦 - Simple Banking System with Transaction Management React Edition
+- **[Image Color Quantization with K-Means Clustering](https://github.com/JV-Vigneesh/Image-Color-Quantization-with-K-Means-Clustering)** 🖼️ - Image Color Quantization with K-Means Clustering
+- **[Evaluating and Mitigating Bias in a Loan Approval Model](https://github.com/JV-Vigneesh/Evaluating-and-Mitigating-Bias-in-a-Loan-Approval-Model)**  - Evaluating and Mitigating Bias in a Loan Approval Model
+ 
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneeshjv/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vigneeshjv)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@havocgamingyt25)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/havocking25)  
