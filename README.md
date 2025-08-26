@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I am a **Mechanical Engineer turned Computer Science Enthusiast**, currently pursuing my **M.Tech in Computer Science and Engineering**. Passionate about **Java Full Stack Development, Cybersecurity, Web Development, and AI**, I love working on interdisciplinary projects that merge different fields of technology.
 
-- 🔭 **Currently working on:** Gen Agritech Website 
+- 🔭 **Currently working on:** MTech Projects
 - 🎯 **Looking for:** Opportunities in **Full Stack Development**, **Cybersecurity**, or **AI-driven solutions** **etc.**  
 - 💡 **Interests:** Software Engineering, Web Development, Ethical Hacking, Open Source Contributions  
 - 🎮 **Hobbies:** Gaming, Exploring New Tech, Reading Comics, Watching Sci-Fi Movies  
