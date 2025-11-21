@@ -25,7 +25,7 @@ I am a **Mechanical Engineer turned Computer Science Enthusiast**, currently pur
 
 ## 🚀 My Projects
 - **[Gen Agritech Website](http://genagritech.com/)** 🌐 - Built a multi-page company website using **HTML, CSS, and JS in VS Code and hosted in GoDaddy & cPannel (In progress)**
-- **Naturezone Organics Website** 🌐 - Built a multi-page company website using **HTML, CSS, and JS in VS Code (In progress)**
+- **[Naturezone Organics Website](https://naturezone-organics.vercel.app/)** 🌐 - Built a multi-page company website using **HTML, CSS, and JS in VS Code (In progress)**
 - **3D Printed Robotic Arm** 🤖 - Designed and implemented a **Bluetooth-controlled robotic arm** using **Arduino & MG995 motors**
 - **3D Printer**  - Designed and implemented a **3D Printer** using **Arduino mega 2560, Stepper Motors & MK-8 Extruder**
 - **[Secure Password Manager](https://github.com/JV-Vigneesh/Secure-Password-Management-System)** 🔐 - A **JavaFX-based password manager** with **SHA-256 encryption and HashTable ADT**
