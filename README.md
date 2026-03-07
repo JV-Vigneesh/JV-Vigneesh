@@ -23,18 +23,18 @@ I am a **Mechanical Engineer turned Computer Science Enthusiast**, currently pur
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 
-## 🚀 My Projects
-- **[Gen Agritech Website](http://genagritech.com/)** 🌐 - Built a multi-page company website using **HTML, CSS, and JS in VS Code and hosted in GoDaddy & cPannel (In progress)**
-- **[Naturezone Organics Website](https://naturezoneorganics.com)** 🌐 - Built a multi-page company website using **HTML, CSS, and JS in VS Code (In progress)** - Maintaining Too
-- **3D Printed Robotic Arm** 🤖 - Designed and implemented a **Bluetooth-controlled robotic arm** using **Arduino & MG995 motors**
-- **3D Printer**  - Designed and implemented a **3D Printer** using **Arduino mega 2560, Stepper Motors & MK-8 Extruder**
-- **[Secure Password Manager](https://github.com/JV-Vigneesh/Secure-Password-Management-System)** 🔐 - A **JavaFX-based password manager** with **SHA-256 encryption and HashTable ADT**
-- **[AI Powered Chatbot for Mental Health Support](https://github.com/JV-Vigneesh/AI-Powered-Chatbot-for-Mental-Health-Support)** 🤖 - AI-driven chatbot designed to provide mental health support using API & Predefined NLP
-- **[Two Way ANNOVA Calculator](https://github.com/JV-Vigneesh/Two-Way-ANNOVA)** 🧮 - A Two-Way ANOVA Calculator using Python
-- **[Simple Banking System with Transaction Management Python Edition](https://github.com/JV-Vigneesh/Simple-Banking-System-with-Transaction-Management-Python-Edition)** 🏦 - Simple Banking System with Transaction Management Python Edition
-- **[Simple Banking System with Transaction Management React Edition](https://github.com/JV-Vigneesh/Simple-Banking-System-with-Transaction-Management-React-Edition)** 🏦 - Simple Banking System with Transaction Management React Edition
-- **[Image Color Quantization with K-Means Clustering](https://github.com/JV-Vigneesh/Image-Color-Quantization-with-K-Means-Clustering)** 🖼️ - Image Color Quantization with K-Means Clustering
-- **[Evaluating and Mitigating Bias in a Loan Approval Model](https://github.com/JV-Vigneesh/Evaluating-and-Mitigating-Bias-in-a-Loan-Approval-Model)**  - Evaluating and Mitigating Bias in a Loan Approval Model
+### 🚀 My Projects
+
+* **[Gen Agritech Website](http://genagritech.com/)** 🌐 – Developed a **multi-page company website** using **HTML, CSS, and JavaScript**, hosted on **GoDaddy with cPanel**
+
+* **[Naturezone Organics Website](https://naturezoneorganics.com)** 🌐 – Developed and currently maintaining a **multi-page business website** using **HTML, CSS, and JavaScript**
+
+* **3D Printed Robotic Arm** 🤖 – Designed and built a **Bluetooth-controlled robotic arm** using **Arduino and MG995 servo motors**
+
+* **3D Printer** 🖨️ – Designed and assembled a **custom 3D printer** using **Arduino Mega 2560, stepper motors, and an MK-8 extruder**
+
+* **[RepoGuard](https://repo-guard-black.vercel.app/)** 🛡️ – Built a **DevOps repository governance dashboard** that audits GitHub repositories for **branch protection and tagging compliance** using **React.js, TypeScript, Vite, and Tailwind CSS**
+
  
 
 ## 📫 Connect with Me
