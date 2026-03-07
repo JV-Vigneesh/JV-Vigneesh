@@ -29,11 +29,15 @@ I am a **Mechanical Engineer turned Computer Science Enthusiast**, currently pur
 
 * **[Naturezone Organics Website](https://naturezoneorganics.com)** 🌐 – Developed and currently maintaining a **multi-page business website** using **HTML, CSS, and JavaScript**
 
+* **[RepoGuard](https://repo-guard-black.vercel.app/)** 🛡️ – Built a **DevOps repository governance dashboard** that audits GitHub repositories for **branch protection and tagging compliance** using **React.js, TypeScript, Vite, and Tailwind CSS**
+
+* **[AI-Enabled Serverless Quiz Management System](https://ai-quiz-app-sigma.vercel.app/)** ☁️🤖 – Built a cloud-native quiz platform using React, AWS Lambda, API Gateway, DynamoDB, and Cognito with Gemini AI for automated question generation and deployed via AWS Amplify.
+
+* **[EcoTrack – Carbon Footprint Tracker](https://ecotrack-carbon-footprint-tracker-kappa.vercel.app/)** 🌱 – Developed a sustainability web app using Vite, TypeScript, Tailwind CSS, and Supabase to calculate and visualize users’ carbon emissions based on daily activities.
+
 * **3D Printed Robotic Arm** 🤖 – Designed and built a **Bluetooth-controlled robotic arm** using **Arduino and MG995 servo motors**
 
 * **3D Printer** 🖨️ – Designed and assembled a **custom 3D printer** using **Arduino Mega 2560, stepper motors, and an MK-8 extruder**
-
-* **[RepoGuard](https://repo-guard-black.vercel.app/)** 🛡️ – Built a **DevOps repository governance dashboard** that audits GitHub repositories for **branch protection and tagging compliance** using **React.js, TypeScript, Vite, and Tailwind CSS**
 
  
 
